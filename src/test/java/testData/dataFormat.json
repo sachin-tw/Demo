@@ -1,0 +1,25 @@
+{
+  "demo": {
+    "path": "users",
+    "request": {
+      "name": "Harsh",
+      "job": "BA"
+    },
+    "request2": {
+      "name": "Sachin",
+      "job": "QA"
+    },
+    "response": {
+      "name": "##string",
+      "job": "#string",
+      "id": "#string",
+      "createdAt": "#? timeValidator(_)"
+    },
+    "response2": {
+      "name": "#string",
+      "job": "#string",
+      "id": "#string",
+      "createdAt": "#? timeValidator(_)"
+    }
+  }
+}

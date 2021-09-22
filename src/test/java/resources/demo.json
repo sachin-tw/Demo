@@ -1,0 +1,12 @@
+{
+  "request": {
+    "name": "Sachin",
+    "job": "QA"
+  },
+  "response": {
+    "name": "#string",
+    "job": "#string",
+    "id": "#string",
+    "createdAt": "#? timeValidator(_)"
+  }
+}
